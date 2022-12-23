@@ -2,7 +2,7 @@ class P5_Problem1{
 	public static void main(String args[]){
 		int day = 1;
 
-		switch (day) {
+		switch () {
 		case 1:
 			System.out.println("Monday");
 		    break;
